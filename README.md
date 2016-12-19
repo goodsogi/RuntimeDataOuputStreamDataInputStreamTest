@@ -1,0 +1,2 @@
+# RuntimeDataOuputStreamDataInputStreamTest
+Runtime 명령어로 DataOutputStream과 DataInputStream을 처리하는 테스트 
